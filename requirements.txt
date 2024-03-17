@@ -1,0 +1,5 @@
+++++ pip-installable libraries that are required ++++
+
+pandas
+numpy
+jupyter
